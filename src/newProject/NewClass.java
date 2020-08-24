@@ -5,6 +5,11 @@ public class NewClass
 		int x;
 		int y;
 		
-		//David: to do:
-		//-add p.constructor
+		public NewClass(int x_, int y_) {
+			this.x = x_;
+			this.y = y_;
+		}
+		
+		
+		//done
 	}
